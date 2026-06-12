@@ -88,29 +88,29 @@ This repository is maintained to strengthen:
 
         ## How to Use
 
-        1. Clone the repository:
-        2.    ```bash
-                 git clone https://github.com/pinnamanenirohith/java-fundamentals.git
-                 ```
-              2. Navigate to any topic folder.
-              3. 3. Read the folder `README.md` for topic explanation.
-                 4. 4. Study and practice the Java programs.
-                   
-                    5. ---
-                   
-                    6. ## Author
-                   
-                    7. **Pinnamaneni Rohith Venkata Sai**
-                    8. Final Year CSE Student — KL University
-                   
-                    9. [![GitHub](https://img.shields.io/badge/GitHub-pinnamanenirohith-black?style=flat&logo=github)](https://github.com/pinnamanenirohith)
-                   
-                    10. ---
-                   
-                    11. ## License
-                   
-                    12. This project is licensed under the [MIT License](LICENSE).
-                   
-                    13. ---
-                   
-                    14. > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+        Clone the repository:
+
+        ```bash
+        git clone https://github.com/pinnamanenirohith/java-fundamentals.git
+        ```
+
+        Navigate to any topic folder, read the folder `README.md` for topic explanation, then study and practice the Java programs.
+
+        ---
+
+        ## Author
+
+        **Pinnamaneni Rohith Venkata Sai**
+        Final Year CSE Student — KL University
+
+        [![GitHub](https://img.shields.io/badge/GitHub-pinnamanenirohith-black?style=flat&logo=github)](https://github.com/pinnamanenirohith)
+
+        ---
+
+        ## License
+
+        This project is licensed under the [MIT License](LICENSE).
+
+        ---
+
+        > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
